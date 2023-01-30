@@ -9,3 +9,11 @@
 #uppercase-two {
     color:blueviolet;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+.lorem {
+    
+}
